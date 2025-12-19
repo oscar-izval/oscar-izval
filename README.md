@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Óscar Izquierdo</h1>
+<h3 align="center">SRE @ Stack Builders. Mainly doing Kubernetes these days but I've also had my fair share of fun with stuff like AWS, Terraform or Nix.</h3>
 
-<!--
-**oscar-izval/oscar-izval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
+  - CKA ✅
+  - KCNA ✅
+  - CKAD 🔜
+  - KCSA 🔜
+  - CKS 🔜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Tanka and Jsonnet**
+
+- 👯 I'm sometimes collaborating on [nixpkgs-terraform](https://github.com/stackbuilders/nixpkgs-terraform)
+
+- ☑️ You can check my certs at [Credly](https://www.credly.com/users/oscar-izquierdo.3b14b633)
+
+- 🔗 How to reach me: **[LinkedIn](https://www.linkedin.com/in/oscar-izquierdo-valentin/)**
+
+### Blogs posts
+- [Combining Nix with Terraform for better DevOps](https://www.stackbuilders.com/insights/combining-nix-with-terraform-for-better-devops/)
+- [Self-contained Scripts With Nix](https://www.stackbuilders.com/insights/self-contained-scripts-with-nix/)
