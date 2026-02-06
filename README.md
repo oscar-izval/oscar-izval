@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Tanka and Jsonnet**
 
-- 👯 I'm sometimes collaborating on [nixpkgs-terraform](https://github.com/stackbuilders/nixpkgs-terraform)
+- 👯 I'm sometimes maintaining [nixpkgs-terraform](https://github.com/stackbuilders/nixpkgs-terraform)
 
 - ☑️ You can check my certs at [Credly](https://www.credly.com/users/oscar-izquierdo.3b14b633)
 
