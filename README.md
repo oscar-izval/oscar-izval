@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on the [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
   - CKA ✅
   - KCNA ✅
-  - CKAD 🔜
+  - CKAD ✅
   - KCSA 🔜
   - CKS 🔜
 
