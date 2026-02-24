@@ -6,7 +6,7 @@
   - CKA ✅
   - KCNA ✅
   - CKAD ✅
-  - KCSA 🔜
+  - KCSA ✅
   - CKS 🔜
 
 - 🌱 I’m currently learning **Tanka and Jsonnet**
