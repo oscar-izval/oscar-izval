@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Óscar Izquierdo</h1>
-<h3 align="center">SRE @ Stack Builders. Mainly doing Kubernetes these days but I've also had my fair share of fun with stuff like AWS, Terraform or Nix.</h3>
+<h3 align="center">SRE @ Capchase. Mainly doing Kubernetes these days but I've also had my fair share of fun with stuff like AWS, Terraform or Nix.</h3>
 
 
 - 🔭 I’m currently working on the [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
