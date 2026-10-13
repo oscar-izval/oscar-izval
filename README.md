@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Óscar Izquierdo</h1>
-<h3 align="center">SRE @ Capchase. Mainly doing Kubernetes these days but I've also had my fair share of fun with stuff like AWS, Terraform or Nix.</h3>
+<h3 align="center">SRE @ Capchase. Mainly doing Kubernetes, Terraform and GCP these days but I've also had my fair share of fun with stuff like AWS, Nix or Concourse.</h3>
 
 
-- 🔭 I’m currently working on the [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
-  - CKA ✅
-  - KCNA ✅
-  - CKAD ✅
-  - KCSA ✅
-  - CKS 🔜
+- 🔭 ~I’m currently working on~ Done with the [Kubestronaut](https://www.cncf.io/training/kubestronaut/) program (KCNA, KCSA, CKAD, CKA, CKS)!
 
-- 🌱 I’m currently learning **Tanka and Jsonnet**
+- 🌱 I’m currently learning **Red Teaming**
 
 - 👯 I'm sometimes maintaining [nixpkgs-terraform](https://github.com/stackbuilders/nixpkgs-terraform)
 
